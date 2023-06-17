@@ -1,9 +1,9 @@
 BookMyShow LLD
 
 Actors
-User
-Theatre
-System
+1. User
+2. Theatre
+3. System
 
 User
 1. Search -> Filters(City/Type(2d/3d)/Location/Date/Rating.......)
